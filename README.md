@@ -13,13 +13,21 @@
   * CI/CD
 * No-Code and Low-Code in practice
   * Demo
-  * Hands-on
+  * Workshop
 * Tools for No-Code and Low-Code workshop
   * Google AppSheet for create app, automated workflow
   * Airtable
   * Looker 7 for data analytic platform
-  * Mendix for create web/mobile/desktop app
-  * Retool
+* Software development
+  * Excalidraw
+    * Generate diagram from text 
+  * Postman
+    * Generate test script
+  * Selenium IDE
+    * Record and playback in web browser
+* Working with Generative AI
+  * ChatGPT
+  * Gemini
 * Workshop
   * Develop web application
   * Develop mobile application
